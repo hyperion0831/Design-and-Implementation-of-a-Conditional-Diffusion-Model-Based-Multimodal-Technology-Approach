@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-a-Conditional-Diffusion-Model-Based-Multimodal-Technology-Approach
+This code is a modified and extended version of the DiffMM model from the ACM MM 2024 paper. It retains the core modules of multi-modal graph diffusion and cross-modal contrastive learning, while integrating conditional diffusion and dynamic weighting to improve accuracy and personalization in recommendation tasks.
